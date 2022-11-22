@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContraintLayout</string>
+    <string-array name="speed">
+        <item>1.0 Ghz</item>
+        <item>1.2 Ghz</item>
+        <item>1.4 Ghz</item>
+        <item>1.6 Ghz</item>
+    </string-array>
+</resources>
